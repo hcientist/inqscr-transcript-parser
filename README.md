@@ -1,6 +1,6 @@
-CSV-ifies transcripts such as ```.inqscr``` files.
+CSV-ifies transcripts (such as those copied and pasted from ```.inqscr``` files).
 
-expects text files with formatting like:
+expects text files with formatting like: (**so if you start from .inqscr files, you will need to open them and copy/paste them into a text editor**)
 ```[00:00:59.13] [2] [L]: Brother, two step brothers```
 
 that is
