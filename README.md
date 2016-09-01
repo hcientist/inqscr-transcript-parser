@@ -11,6 +11,10 @@ and results in a csv like:
 
 ```16-1-15-1,00:00:59.13,[2] ,L,"Brother, two step brothers"```
 
+which is
+
+```filename (so name them in a useful way, like date/session number)```,```timestamp```,```questionNumber```,```speaker```,```response```
+
 ## Usage ##
 
 ```node app.js <path to directory with all the transcripts> <path to output file>```
