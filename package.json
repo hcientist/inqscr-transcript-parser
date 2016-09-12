@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csvdata": "^1.3.0",
+    "csvdata": "^1.3.0"
   }
 }
